@@ -1,5 +1,5 @@
-# WEB-HIT-2019
- Repository chứa các tài liệu học tập, bài tập về nhà của em ạ
+# Subject_in_University
+ Repository chứa các tài liệu học tập, bài tập về nhà của mình ạ :v
 # Thông Tin Liên Hệ :
   - Họ Và Tên : Nguyễn Viết Trí
   - Lớp : CNTT5 - K13
